@@ -9,9 +9,8 @@ E escolher a quantidade
 Para depois inserir no carrinho
 
 
-Contexto: Dado que esteja dentro da plataforma da Ebac-Shop
-E entrei na página dos produtos
-E cliquei na imagem do produto (Augusta Pullover Jacket)
+Contexto: 
+Dado que entrei na pagina de produtos da plataforma e-bac shop e cliquei no produto "Augusta Pullover Jacket"
 
 Cenário: Seleção e configuraçao de todos os itens da pagina do produto
 

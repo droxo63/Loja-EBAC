@@ -9,8 +9,8 @@ Para visualizar meus pedidos
 
 
 Contexto:
-Dado que eu esteja dentro da plataforma da Ebac-Shop
-E tenha entrado na pagina de um autenticação de usuario
+Dado que eu esteja dentro da pagina de autenticação de login da plataforma da Ebac-Shop
+
 
 
 Cenário: Login na plataforma com sucesso
