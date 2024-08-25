@@ -27,7 +27,7 @@
 
             Esquema do Cenário: Preechimento do cadastro com e-mail invalido
 
-            Quando eu preencho os campos <nome>, <sobrenome>, <endereco>, <CEP>, <pais>, <cidade>, <telefone> e <email invalido>
+            Quando eu preencho com <email invalido>
             E clico no botão Finalizar compra
             Então o sistema exibe uma mensagem: "E-mail inválido. Tente novamente".
 
@@ -45,7 +45,7 @@
             | akira.tanaka@domain com  |
             | liam.murphy@domain.co,uk |
 
-            Esquema do Cenário: Preechimento  do cadastro com campos obrigatorios em branco
+            Cenário: Preechimento do cadastro com campos obrigatorios em branco
 
             Quando Eu deixar de digitar algum campo obrigatorio (*)
             E clico no botão Finalizar compra
